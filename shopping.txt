@@ -9,3 +9,5 @@
   * peas
   * tofu
   * bread
+  * celery
+  * apples
